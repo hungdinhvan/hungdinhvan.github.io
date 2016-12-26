@@ -1,6 +1,6 @@
-![logo](_media/icon.svg)
+![logo](_img/ava.png)
 
-# docsify <small>1.2.0</small>
+# Hung Dinh Van <small>Documentations</small>
 
 > A magical documentation site generator.
 
@@ -9,5 +9,5 @@
 - Not build static html files
 
 
-[GitHub](https://github.com/QingWei-Li/docsify/)
-[Get Started](#quick-start)
+[GitHub](https://hungdinhvan.github.io)
+[Get Started](/#quick-start)
