@@ -1,4 +1,4 @@
-![logo](_img/ava.png)
+![logo](_media/logo.svg)
 
 # Hung Dinh Van <small>Documentations</small>
 
